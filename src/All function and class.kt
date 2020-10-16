@@ -8,3 +8,5 @@ fun main(){
 fun findArea( ad:Int,name:String, position:String)  {
        println("$ad, $name, $position")
 }
+
+fun calculateSize() {}
