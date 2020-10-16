@@ -10,3 +10,9 @@ fun findArea( ad:Int,name:String, position:String)  {
 }
 
 fun calculateSize() {}
+
+fun getSize(): Int { return 1 }
+
+fun doSomething() {
+	// Just do something
+}
