@@ -1,18 +1,6 @@
 package oop
 
-/**
- * - Create a class named `Employee`
- *      -> Fields: id, name, gender, position, ratePerHour
- *      -> Functions: printEmployeeInformation, printEmployeeRatePerHour, printEmployeePosition
- *
- * - Create a class named `EmployeePayroll`
- *      -> Fields: id, totalWorkHoursOfEmployee, employee
- *      -> Functions:
- *          - printEmployeePayrollInformation (id, totalWorkHours, name of employee)
- *          - [private] calculateTotalSalary: totalWorkHours * ratePerHour
- *          - printEmployeeSalary: 100 * 2.25 = $225 --> `Total Salary: $225`
- *
- */
+
 
 fun main() {
     val firstEmployee = Employee(
